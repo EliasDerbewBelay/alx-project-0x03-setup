@@ -1,9 +1,4 @@
-interface ButtonProps {
-  buttonLabel: string;
-  buttonSize: string;
-  buttonBackgroundColor?: "red" | "blue" | "orange" | "green";
-  action(): () => void;
-}
+import { ButtonProps } from "@/interface";
 
 const Button: React.FC<ButtonProps> = ({
   buttonLabel,
@@ -30,4 +25,4 @@ const Button: React.FC<ButtonProps> = ({
   );
 };
 
-export default Button
+export default Button;
