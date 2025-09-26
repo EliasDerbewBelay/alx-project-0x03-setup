@@ -1,6 +1,3 @@
-Got it 👍 — here’s a **short and concise version** of the README:
-
-```markdown
 # Splash App 🌊
 
 **Splash App** is a Next.js project showcasing modern web development with **shared layouts**, **component-based architecture**, **routing**, and **responsive design**.  
